@@ -26,3 +26,4 @@ ff7 = media.Movie("Fast and Furious 7","","https://upload.wikimedia.org/wikipedi
 movies = [toy_story, avatar, titanic, idiots, ff7]
 #fresh_tomatoes.open_movies_page(movies)
 print media.Movie.__module__
+
